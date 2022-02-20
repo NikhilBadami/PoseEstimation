@@ -1,4 +1,4 @@
-# Project 5: 3D Pose Estimation and objectron for object selection
+# 3D Pose Estimation and objectron for object selection
 
 # Setup
 - Install <a href="https://conda.io/miniconda.html">Miniconda</a>. It doesn't matter whether you use 2.7 or 3.6 because we will create our own environment anyways.
